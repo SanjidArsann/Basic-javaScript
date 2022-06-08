@@ -1,0 +1,11 @@
+var oddNum = [1, 3, 5, 7, 9];
+// var oddNumCount = oddNum.length;
+// console.log(oddNumCount);
+// console.log(oddNum);
+// console.log(oddNum.length);
+// var oddNumCount = oddNum.length;
+// console.log(oddNumCount);
+// var thirdNum = oddNum[3];
+// oddNum[3] = 110;
+// oddNum.unshift(0);
+console.log(oddNum);
