@@ -2,7 +2,7 @@ function findEven(num){
     let even = [];
     for(let i = 0; i < num.length; i++){
         const element = num[i];
-        if(element % 2 != 0){
+        if(element % 2 == 0){
             even.push(element);
         }
     }
